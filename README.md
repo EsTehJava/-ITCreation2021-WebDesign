@@ -1,2 +1,7 @@
-# -ITCreation2021-WebDesign
-Website design by team Es Teh Java for IT Creation 2021 Web Design competition
+# EsTehJava Team
+### IT Creation 2021 Web Design competition
+
+##### Developer
+- Naufal Adli Purnama
+- Muhammad Ferdian Iqbal
+
